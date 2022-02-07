@@ -9,6 +9,7 @@
 * JSP / Servlet
 * Html css javascript
 * Spring framework / Spring boot
+* JPA  Hibernate
 * 웹 보안
 
 
